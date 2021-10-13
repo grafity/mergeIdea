@@ -12,6 +12,9 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
 
         System.out.println("WWW");
+
+
+        System.out.println("YYYY");
     }
 
 }
